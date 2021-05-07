@@ -1,0 +1,36 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null,
+          "partialCompile": {
+            "enabled": false,
+            "pages": [
+              "pages/webview/index"
+            ]
+          }
+        },
+        {
+          "name": "pages/webview/index",
+          "pathName": "pages/webview/index",
+          "query": "url=https%3A%2F%2Freamd.github.io%2Fnews%2F",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
