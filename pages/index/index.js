@@ -8,6 +8,7 @@ Page({
   },
 
   onLoad() {
+    wx.showShareMenu();
     console.warn(`【版本号】${config.VERSION}`);
     this.getJson();
   },
