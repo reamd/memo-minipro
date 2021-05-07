@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "剑",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "useExtendedLib": {
+    "weui": true
+  },
+  "usingComponents": {
+    "mp-navigation-bar": "weui-miniprogram/navigation-bar/navigation-bar"
+  },
+  "sitemapLocation": "sitemap.json"
+}

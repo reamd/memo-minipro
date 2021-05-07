@@ -1,0 +1,5 @@
+<mp-navigation-bar color="{{color}}" background="{{background}}" title="UI组件库" back="{{true}}"></mp-navigation-bar>
+<view>
+  <view>hello world</view>
+  <mp-icon icon="add" color="black" size="{{25}}"></mp-icon>
+</view>
